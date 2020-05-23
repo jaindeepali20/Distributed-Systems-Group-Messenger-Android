@@ -1,7 +1,7 @@
 # Distributed-Systems-Group-Messenger-Android
 The goal of this app is simple: enabling two Android devices to send messages to each other.
 
-## Steps
+## Background
 # Step 1: Getting Started
 The first thing to do is to install Android Studio.
 Please go to the installation page and download Android Studio.
